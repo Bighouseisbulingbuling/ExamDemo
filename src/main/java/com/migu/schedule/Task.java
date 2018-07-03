@@ -11,7 +11,6 @@ public class Task {
 		this.consumption = consumption;
 	}
 	
-	
 	public Integer getTaskId() {
 		return taskId;
 	}
